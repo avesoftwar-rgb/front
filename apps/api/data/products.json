@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "1",
+    "name": "Laptop Pro",
+    "price": 1299.99,
+    "category": "electronics",
+    "stock": 9,
+    "description": "High-performance laptop",
+    "imageUrl": "/laptop.jpg"
+  },
+  {
+    "_id": "2",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "category": "electronics",
+    "stock": 50,
+    "description": "Ergonomic wireless mouse",
+    "imageUrl": "/mouse.jpg"
+  },
+  {
+    "_id": "3",
+    "name": "Coffee Maker",
+    "price": 89.99,
+    "category": "home",
+    "stock": 20,
+    "description": "Smart coffee maker",
+    "imageUrl": "/coffee.jpg"
+  },
+  {
+    "_id": "4",
+    "name": "Running Shoes",
+    "price": 129.99,
+    "category": "apparel",
+    "stock": 30,
+    "description": "Professional running shoes",
+    "imageUrl": "/shoes.jpg"
+  },
+  {
+    "_id": "5",
+    "name": "Backpack",
+    "price": 49.99,
+    "category": "accessories",
+    "stock": 40,
+    "description": "Durable travel backpack",
+    "imageUrl": "/backpack.jpg"
+  }
+]

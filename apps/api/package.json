@@ -1,0 +1,32 @@
+{
+  "name": "week5-api",
+  "version": "1.0.0",
+  "description": "Week 5 MVP Backend API",
+  "main": "src/server.js",
+  "scripts": {
+    "build": "echo 'Skipping build for Node.js server'",
+    "start": "node src/server.js",
+    "start:demo": "node src/server-demo.js",
+    "start:dynamic": "node src/server-dynamic.js",
+    "start:inmemory": "node src/server-inmemory.js",
+    "start:mongodb": "node src/server-mongodb.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node scripts/seed.js",
+    "test": "jest --testPathPattern=../../tests"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "js-yaml": "^4.1.0",
+    "mongodb": "^6.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": "^20.0.0"
+  }
+}
