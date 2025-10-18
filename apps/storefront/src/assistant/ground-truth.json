@@ -1,0 +1,122 @@
+[
+  {
+    "qid": "Q01",
+    "category": "Returns",
+    "question": "What is your returns policy?",
+    "answer": "You can return items within 30 days with the receipt. See returns page for details."
+  },
+  {
+    "qid": "Q02",
+    "category": "Shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping is available for 1-2 days."
+  },
+  {
+    "qid": "Q03",
+    "category": "Warranty",
+    "question": "Do products have warranty?",
+    "answer": "Most electronics have a 1-year limited warranty. Check product details for specific warranty information."
+  },
+  {
+    "qid": "Q04",
+    "category": "Payment",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept major credit cards (Visa, MasterCard, American Express) and PayPal."
+  },
+  {
+    "qid": "Q05",
+    "category": "Orders",
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled within 1 hour of placement if not packed yet. Contact support for assistance."
+  },
+  {
+    "qid": "Q06",
+    "category": "Products",
+    "question": "Do you ship internationally?",
+    "answer": "We ship to selected countries. Check shipping options at checkout for availability."
+  },
+  {
+    "qid": "Q07",
+    "category": "Support",
+    "question": "How do I contact support?",
+    "answer": "Use the Ask Support panel on any page or email support@storefront.com for assistance."
+  },
+  {
+    "qid": "Q08",
+    "category": "Discounts",
+    "question": "Do you offer student discounts?",
+    "answer": "Student discounts are available occasionally. Subscribe to our newsletter for special offers."
+  },
+  {
+    "qid": "Q09",
+    "category": "Stock",
+    "question": "Is item X in stock?",
+    "answer": "Stock levels are shown on each product page. You can sign up for restock notifications."
+  },
+  {
+    "qid": "Q10",
+    "category": "Sizing",
+    "question": "How do I choose the right size?",
+    "answer": "See the product's sizing guide on its page. Contact support if you need help with sizing."
+  },
+  {
+    "qid": "Q11",
+    "category": "Returns",
+    "question": "How do I start a return?",
+    "answer": "Open a support request with your order ID and reason for return. We'll provide return instructions."
+  },
+  {
+    "qid": "Q12",
+    "category": "Orders",
+    "question": "Where is my order?",
+    "answer": "Provide your order ID and we'll check the status. You can paste your order ID here for quick lookup."
+  },
+  {
+    "qid": "Q13",
+    "category": "Technical",
+    "question": "How to pair the headphones?",
+    "answer": "Enable Bluetooth on your device and hold the power button for 5 seconds to enter pairing mode."
+  },
+  {
+    "qid": "Q14",
+    "category": "Warranty",
+    "question": "How do I claim warranty?",
+    "answer": "Contact support with proof of purchase and serial number. We'll guide you through the warranty process."
+  },
+  {
+    "qid": "Q15",
+    "category": "Shipping",
+    "question": "Do you offer express shipping?",
+    "answer": "Yes, express shipping (1-2 days) is available at checkout for an additional fee."
+  },
+  {
+    "qid": "Q16",
+    "category": "Products",
+    "question": "Are products authentic?",
+    "answer": "Yes, we sell only authentic, brand-new items from authorized suppliers and distributors."
+  },
+  {
+    "qid": "Q17",
+    "category": "Privacy",
+    "question": "How is my data used?",
+    "answer": "We keep minimal data to process orders and improve service. See our privacy policy for details."
+  },
+  {
+    "qid": "Q18",
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "Use the 'forgot password' link on the sign-in page or contact support for assistance."
+  },
+  {
+    "qid": "Q19",
+    "category": "Returns",
+    "question": "Are shipping costs refundable?",
+    "answer": "Return shipping costs are refundable under certain conditions. See our returns policy for details."
+  },
+  {
+    "qid": "Q20",
+    "category": "Orders",
+    "question": "What do the order statuses mean?",
+    "answer": "Placed: Order received. Packed: Being prepared. Shipped: On the way with tracking. Delivered: Received."
+  }
+]
