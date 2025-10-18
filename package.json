@@ -1,0 +1,30 @@
+{
+  "name": "week5-mvp",
+  "version": "1.0.0",
+  "description": "Week 5 MVP - E-Commerce Platform with SSE and Intelligent Assistant",
+  "private": true,
+  "scripts": {
+    "install:api": "cd apps/api && npm install",
+    "install:frontend": "cd apps/storefront && npm install", 
+    "install:all": "npm run install:api && npm run install:frontend",
+    "dev:api": "cd apps/api && npm run dev",
+    "dev:frontend": "cd apps/storefront && npm run dev",
+    "start:api": "cd apps/api && npm start",
+    "start:frontend": "cd apps/storefront && npm run dev",
+    "seed": "cd apps/api && npm run seed",
+    "test": "cd tests && npm test",
+    "build": "cd apps/storefront && npm run build",
+    "build:api": "cd apps/api && npm ci --only=production",
+    "build:frontend": "cd apps/storefront && npm ci && npm run build",
+    "check-deploy": "node check-deploy-ready.js",
+    "prepare-deploy": "npm run check-deploy && echo '\n✅ Project is ready! Push to GitHub and follow DEPLOYMENT_GUIDE.md'",
+    "predeploy": "npm run check-deploy"
+  },
+  "workspaces": [
+    "apps/api",
+    "apps/storefront"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

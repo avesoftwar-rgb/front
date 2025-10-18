@@ -1,0 +1,107 @@
+[
+  {
+    "id": "Policy3.1",
+    "question": "What is your return policy?",
+    "answer": "Items can be returned within 30 days of purchase with original receipt. All items must be in original condition with tags attached. Refunds are processed within 5-7 business days to the original payment method. Shipping costs are non-refundable unless the item was defective or we made an error.",
+    "category": "returns",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Policy3.2",
+    "question": "How do I initiate a return?",
+    "answer": "To initiate a return, log into your account, go to Order History, select the order, and click 'Return Item'. Print the prepaid shipping label and drop off the package at any authorized shipping location. You'll receive email updates throughout the return process.",
+    "category": "returns",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Shipping2.1",
+    "question": "What are your shipping options?",
+    "answer": "We offer three shipping options: Standard Shipping (5-7 business days, $5.99), Express Shipping (2-3 business days, $12.99), and Overnight Delivery ($24.99). Free standard shipping is available on all orders over $50.",
+    "category": "shipping",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Shipping2.2",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping rates vary by destination and are calculated at checkout. Delivery times range from 7-21 business days. Customers are responsible for any customs duties or taxes.",
+    "category": "shipping",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Warranty4.1",
+    "question": "What warranty do you offer on electronics?",
+    "answer": "All electronics come with a standard 1-year manufacturer warranty covering defects in materials and workmanship. Extended warranty plans are available for purchase: 2-year plan (+$29.99) or 3-year plan (+$49.99). Warranty does not cover physical damage, water damage, or normal wear and tear.",
+    "category": "warranty",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Warranty4.2",
+    "question": "How do I claim warranty service?",
+    "answer": "To claim warranty service, contact our support team with your order number and description of the issue. We'll provide a warranty claim number and prepaid shipping label. Most warranty replacements are processed within 5-7 business days after we receive the defective item.",
+    "category": "warranty",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Payment5.1",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, American Express, Discover), debit cards, PayPal, Apple Pay, and Google Pay. We also offer financing options through our partner for purchases over $100 with 0% APR for qualified customers.",
+    "category": "payment",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Payment5.2",
+    "question": "Is my payment information secure?",
+    "answer": "Yes, all payment transactions are encrypted using 256-bit SSL encryption. We are PCI DSS compliant and never store your full credit card information on our servers. We use tokenization for recurring customers to ensure maximum security.",
+    "category": "payment",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Privacy6.1",
+    "question": "How do you protect my personal information?",
+    "answer": "We take data privacy seriously. Personal information is encrypted and stored securely. We never sell or share your data with third parties for marketing purposes. We only use your information to process orders, provide customer service, and improve your shopping experience.",
+    "category": "privacy",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Privacy6.2",
+    "question": "Can I request deletion of my personal data?",
+    "answer": "Yes, you have the right to request deletion of your personal data in accordance with GDPR and CCPA regulations. Submit a data deletion request through your account settings or contact our privacy team. We'll process your request within 30 days.",
+    "category": "privacy",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "General1.1",
+    "question": "What are your customer service hours?",
+    "answer": "Our customer service team is available Monday-Friday 9 AM to 8 PM EST, and Saturday-Sunday 10 AM to 6 PM EST. You can reach us via chat, email, or phone. Our AI assistant is available 24/7 for immediate support.",
+    "category": "general",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "General1.2",
+    "question": "Do you have a loyalty program?",
+    "answer": "Yes! Our ShopSmart Rewards program is free to join. Earn 1 point for every dollar spent, and redeem 100 points for $5 off. Members also get exclusive access to sales, birthday discounts, and free shipping on all orders.",
+    "category": "general",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Order7.1",
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placement. After that, the order enters fulfillment and cannot be changed. To cancel within the window, go to Order History and click 'Cancel Order'. For modifications, contact customer service immediately.",
+    "category": "orders",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Order7.2",
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive an email with tracking information. You can also track your order by logging into your account and viewing Order History, or use our Order Tracking page with your order ID. Real-time updates are available through our tracking system.",
+    "category": "orders",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": "Products8.1",
+    "question": "How do I know if an item is in stock?",
+    "answer": "Stock availability is shown on each product page. Green checkmark means in stock, yellow means low stock (less than 5 items), and red means out of stock. You can sign up for back-in-stock notifications on out-of-stock items.",
+    "category": "products",
+    "lastUpdated": "2025-10-01T00:00:00Z"
+  }
+]

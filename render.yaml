@@ -1,0 +1,39 @@
+services:
+  # Backend API Service
+  - type: web
+    name: shopmart-api
+    env: node
+    region: frankfurt
+    plan: free
+    rootDir: apps/api
+    buildCommand: npm ci --only=production
+    startCommand: node src/server.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: NODE_VERSION
+        value: 20
+      - key: NODE_ENV
+        value: production
+      - key: CORS_ORIGINS
+        sync: false
+    
+  # Frontend Static Site (Optional - can use Vercel/Netlify instead)
+  - type: web
+    name: shopmart-frontend
+    env: static
+    region: frankfurt
+    plan: free
+    rootDir: apps/storefront
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: VITE_API_URL
+        sync: false
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
